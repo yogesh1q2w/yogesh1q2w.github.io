@@ -1,10 +1,9 @@
 ---
 layout: archive
-# title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-You can find my Curriculum Vitae [here](https://yogesh1q2w.github.io/files/resume.pdf).
+You can find my latest Curriculum Vitae [here](https://yogesh1q2w.github.io/files/resume.pdf).
