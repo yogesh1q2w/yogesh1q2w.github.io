@@ -14,7 +14,7 @@ description              : &description "Final Year Undergraduate Student at IIT
 url                      : https://yogesh1q2w.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yogesh1q2w.github.io"
-teaser                   : "self.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "bio.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yogesh Tripathi"
-  avatar           : "self.jpeg"
+  avatar           : "bio.jpeg"
   bio              : "Final Year Undergraduate Student"
   location         : "Indian Institute of Technology, Madras"
   employer         :
