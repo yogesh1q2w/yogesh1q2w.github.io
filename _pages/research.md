@@ -14,8 +14,8 @@ author_profile: true
     
 2. Model Based Reinforcement Learning with Graph Interaction Networks
     Mentor - Prof. Balaraman Ravindran
-    [Report](https://yogesh1q2w.github.io/files/mbrl_gin.pdf)
-    [Code](https://github.com/yogesh1q2w/RL_project.git)
+    [[Report]](https://yogesh1q2w.github.io/files/mbrl_gin.pdf)
+    [[Code]](https://github.com/yogesh1q2w/RL_project.git)
     - Implemented Deep Deterministic Policy Gradient, Trust Region Policy Optimization and Proximal Policy Optimization learning algorithms for Graph-based Model setting
     - Analyzed the performance of these algorithms on Swimmer environment of MuJoCo
     - Established that Graph Interaction Network based model outperforms Vanilla models
@@ -29,20 +29,20 @@ author_profile: true
     
 2. Image Captioning System using end-to-end Encoder-Decoder paradigm
     Mentor - Prof. Sutanu Chakraborti
-    [Code](https://github.com/yogesh1q2w/Image-Captioning)
+    [[Code]](https://github.com/yogesh1q2w/Image-Captioning)
     - Built an end-to-end Image Captioning System using the Encoder-Decoder paradigm of Deep Learning
     - Incorporated Attention Mechanism to improve the quality of captions
 
 **GRAPH ALGORITHMS**
 1. Parameterized Algorithms for Red-Blue Weighted Vertex Cover on Trees
     Mentor - Prof. N.S. Narayanaswamy
-    [Report](https://yogesh1q2w.github.io/files/wtd_vc.pdf)
+    [[Report]](https://yogesh1q2w.github.io/files/wtd_vc.pdf)
     - Studied the hardness of Red-Blue Weighted Vertex Cover and relevant relaxations of the problem
     - Designed parameterized algorithms through Linear Programming techniques and Bounded Search Trees
     - Analyzed the time complexity of algorithms and possible reductions through kernelizations
     
 2. Dynamic Graph Algorithms
     Mentor - Prof. Rupesh Nasre
-    [Code](https://github.com/yogesh1q2w/Dynamic-Graph-Algorithms)
+    [[Code]](https://github.com/yogesh1q2w/Dynamic-Graph-Algorithms)
     - Built a C++ library for fully dynamic graphs allowing real time edge insertions and deletions
     - Implemented efficient algorithms to support connectivity, minimum spanning tree and shortest path
