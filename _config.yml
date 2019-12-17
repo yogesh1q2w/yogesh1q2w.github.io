@@ -14,7 +14,7 @@ description              : &description "Final Year Undergraduate Student at IIT
 url                      : https://yogesh1q2w.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yogesh1q2w.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "self.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @YogeshT06895549
 facebook:
-  username               :
+  username               : yogesh1q2w
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -81,40 +81,40 @@ analytics:
 # Site Author
 author:
   name             : "Yogesh Tripathi"
-  avatar           : "profile.png"
+  avatar           : "self.jpeg"
   bio              : "Final Year Undergraduate Student"
   location         : "Indian Institute of Technology, Madras"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://ytripathi.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  email            :  "yogesh120699@gmail.com"
+#   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              : "https://yogesh1q2w.github.io"
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       :
   github           : "yogesh1q2w"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   lastfm           :
+  linkedin         : "yogesh-tripathi-1a5143169"
+#   orcid            : "http://orcid.org/yourorcidurl"
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   steam            :
+#   tumblr           :
+#   twitter          : "replacethistwitterhandle"
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
+#   wikipedia        :
 
 
 # Reading Files
