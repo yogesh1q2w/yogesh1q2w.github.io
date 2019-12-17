@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my Curriculum Vitae [here](resume.pdf).
+You can find my Curriculum Vitae [here](https://yogesh1q2w.github.io/files/resume.pdf).
