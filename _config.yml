@@ -55,6 +55,9 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+defaults:
+  values:
+    sitemap:         false
 # Social Sharing
 twitter:
   username               : &YogeshT06895549
