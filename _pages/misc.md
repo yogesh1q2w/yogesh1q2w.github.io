@@ -43,4 +43,3 @@ I worked as a Summer Intern at Gartner India Research and Advisory Services Pvt.
   - Completed a teaching project in Lady Nye Nursery and Primary School, Chennai for three months
   - Participated in weekly collection drives conducted in residential area of IIT-M
   
-  
