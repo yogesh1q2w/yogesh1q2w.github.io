@@ -18,8 +18,8 @@ I worked as a Summer Intern at Gartner India Research and Advisory Services Pvt.
     
 2. Topics in Deep Learning - Assignment
 
-    * Trained and Tested Transformer on English to German Translation task [report](https://yogesh1q2w.github.io/files/tdl_pa1.pdf)
-    * Trained and Tested Faster-RCNN, RetinaNet and YOLO-v3 models on DVQA dataset [report](https://yogesh1q2w.github.io/files/tdl_pa2.pdf)
+    * Trained and Tested Transformer on English to German Translation task [[report]](https://yogesh1q2w.github.io/files/tdl_pa1.pdf)
+    * Trained and Tested Faster-RCNN, RetinaNet and YOLO-v3 models on DVQA dataset [[report]](https://yogesh1q2w.github.io/files/tdl_pa2.pdf)
 
 **Skills**
 1. Languages: C, C++, Python, Java, R, MATLAB, Prolog, Lisp, Octave, x86 Assembly
